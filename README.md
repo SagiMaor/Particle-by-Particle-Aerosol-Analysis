@@ -36,6 +36,15 @@ Users can filter by specific particle types and categories, enabling targeted, h
 
 ---
 
+## ⚙️ Technical Implementation
+
+This project is implemented in **Python** using modular scripts. You will need the following Python packages:
+
+```bash
+pip install pandas matplotlib numpy
+
+---
+
 ## ▶️ How to Run
 
 1. Open a terminal and navigate to the project folder.
@@ -44,11 +53,4 @@ Users can filter by specific particle types and categories, enabling targeted, h
 ```bash
 python run.py
 
----
 
-## ⚙️ Technical Implementation
-
-This project is implemented in **Python** using modular scripts. You will need the following Python packages:
-
-```bash
-pip install pandas matplotlib numpy
