@@ -24,15 +24,25 @@ Users can filter by specific particle types and categories, enabling targeted, h
 
 - **Input**:  
   A **merged `.csv` file** produced by the WIBS Igor toolkit, either for:
-  - Time-series data (`Avg_*.csv`)
-  - Histogram-style size distributions (`Conc_Sum.csv`)
-  - Fluorescence-resolved size bins (`dN_dlogDp_*.csv`)
+  - Time-series data 
+  - Histogram-style size distributions 
+  - Fluorescence-resolved size bins 
 
 - **Output**:  
   - Time series line plots with optional error bars  
   - Size-binned histograms with smart binning and log-scale  
   - Vertical heatmaps showing particle concentration across size bins over time  
   - All plots displayed interactively (can be saved manually)
+
+---
+
+## ▶️ How to Run
+
+1. Open a terminal and navigate to the project folder.
+2. Run the main script:
+
+```bash
+python run.py
 
 ---
 
