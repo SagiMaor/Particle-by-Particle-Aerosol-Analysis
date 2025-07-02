@@ -57,3 +57,5 @@ Pandas, Numpy, Matplotlib
     Choosing particle categories and analysis parameters
 
 After your selection, follow the on-screen instructions provided by each plotting module. These will prompt you for any specific categories, variables, or options needed to generate your desired plots. Each module is interactive and self-contained.
+
+This project was written as part of the [WIS Python Course – March 2025](https://github.com/code-Maven/wis-python-course-2025-03).
