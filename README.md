@@ -35,6 +35,7 @@ Users can filter by specific particle types and categories, enabling targeted, h
   - All plots displayed interactively (can be saved manually)
 
 ---
+    
 
 ## ⚙️ Technical Implementation
 
@@ -45,12 +46,10 @@ pip install pandas matplotlib numpy
 
 ---
 
-## ▶️ How to Run
 
-1. Open a terminal and navigate to the project folder.
-2. Run the main script:
+▶️ How to Run
 
-```bash
-python run.py
+    Open a terminal and navigate to the root directory of the project.
 
+    Run the main script using:
 
