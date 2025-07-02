@@ -53,3 +53,12 @@ Pandas, Numpy, Matplotlib
 
 ```bash
 python RunAll.py
+3. You will be guided through:
+
+    Selecting the type of plot (Histogram, Time Series, or Heatmap)
+
+    Providing the full path to your merged WIBS .csv file
+
+    Choosing particle categories and analysis parameters
+
+After your selection, follow the on-screen instructions provided by each plotting module. These will prompt you for any specific categories, variables, or options needed to generate your desired plots. Each module is interactive and self-contained.
