@@ -29,7 +29,7 @@ Users can filter by specific particle types and categories, enabling targeted, h
   - Fluorescence-resolved size bins 
 
 - **Output**:  
-  - Time series line plots with optional error bars  
+  - Time series line plots  
   - Size-binned histograms with smart binning and log-scale  
   - Vertical heatmaps showing particle concentration across size bins over time  
   - All plots displayed interactively (can be saved manually)
@@ -52,4 +52,4 @@ Pandas, Numpy, Matplotlib
 2. Run the main script using:
 
 ```bash
-python run.py
+python RunAll.py
